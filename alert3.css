@@ -1,0 +1,27 @@
+.d-flex{
+
+    display: flex;
+    justify-content: end;
+    
+    }
+    
+    .mom{
+    
+    flex: 1;
+    
+    }
+    
+    .box-class{
+    
+    display: flex;
+    gap: 6px;
+    
+    }
+    
+    .d-flex-gap1{
+    
+    display: flex;
+    gap: 8px;
+    padding: 10px;
+    
+    }
